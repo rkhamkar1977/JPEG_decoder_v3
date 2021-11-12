@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="159" />
+   <irq preferredWidth="34" />
+   <name preferredWidth="374" />
+   <export preferredWidth="271" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions/Simulation; Debug and Verification,Library/Processors and Peripherals/Hard Processor Components,Library,Library/Basic Functions/Simulation; Debug and Verification/Simulation,Library/Memory Interfaces and Controllers,Library/University Program/Memory,Project,Library/Qsys Interconnect,Library/Basic Functions/On Chip Memory,Library/Basic Functions/Bridges and Adaptors,Library/Qsys Interconnect/Memory-Mapped Alpha,Library/University Program,Library/Basic Functions,Library/Processors and Peripherals,Library/Qsys Interconnect/Memory-Mapped,Library/Basic Functions/Bridges and Adaptors/Memory Mapped" />
+ <window width="1920" height="1080" x="1920" y="0" />
+ <generation simulation="VERILOG" />
+</preferences>

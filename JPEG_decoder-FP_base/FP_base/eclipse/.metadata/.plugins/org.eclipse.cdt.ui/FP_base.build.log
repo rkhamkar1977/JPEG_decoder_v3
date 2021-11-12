@@ -1,0 +1,9 @@
+17:14:59 **** Incremental Build of configuration Nios II for project FP_base ****
+make all 
+Info: Building ../FP_base_bsp/
+make --no-print-directory -C ../FP_base_bsp/
+[BSP build complete]
+[FP_base build complete]
+
+17:14:59 Build Finished (took 160ms)
+

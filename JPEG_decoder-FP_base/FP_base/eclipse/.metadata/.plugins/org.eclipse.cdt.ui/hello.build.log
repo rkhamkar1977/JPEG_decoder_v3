@@ -1,0 +1,9 @@
+18:56:12 **** Incremental Build of configuration Nios II for project hello ****
+make all 
+Info: Building ../hello_bsp/
+make --no-print-directory -C ../hello_bsp/
+[BSP build complete]
+[hello build complete]
+
+18:56:12 Build Finished (took 159ms)
+

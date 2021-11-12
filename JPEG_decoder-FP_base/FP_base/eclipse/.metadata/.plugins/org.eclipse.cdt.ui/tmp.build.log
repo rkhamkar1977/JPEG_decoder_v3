@@ -1,0 +1,9 @@
+17:41:35 **** Incremental Build of configuration Nios II for project tmp ****
+make all 
+Info: Building ../tmp_bsp/
+make --no-print-directory -C ../tmp_bsp/
+[BSP build complete]
+[tmp build complete]
+
+17:41:35 Build Finished (took 108ms)
+

@@ -1,0 +1,12 @@
+Input file name = /mnt/rozipfs/house.jpg
+Starting decompression....
+Decompression complete!
+--Performance Counter Report--
+Total Time: 9.08188 seconds  (454094109 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|decompression  | 79.4|    7.21457|      360728431|        256|
++---------------+-----+-----------+---------------+-----------+
+|display        | 19.6|    1.77660|       88829890|        256|
++---------------+-----+-----------+---------------+-----------+
